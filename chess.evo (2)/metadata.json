@@ -1,6 +1,0 @@
-{
-  "name": "Chess.com Game Reviewer",
-  "description": "A dashboard to fetch and review recent Chess.com games with a responsive chessboard and interactive move list.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
